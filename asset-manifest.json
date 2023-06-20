@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/notekeep/static/css/main.31d6cfe0.css",
+    "main.js": "/notekeep/static/js/main.33822f44.js",
+    "static/js/787.06026051.chunk.js": "/notekeep/static/js/787.06026051.chunk.js",
+    "index.html": "/notekeep/index.html",
+    "main.33822f44.js.map": "/notekeep/static/js/main.33822f44.js.map",
+    "787.06026051.chunk.js.map": "/notekeep/static/js/787.06026051.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.33822f44.js"
+  ]
+}
